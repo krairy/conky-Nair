@@ -17,4 +17,7 @@ v1.0
 date : 10 Aug 2024
 -	Forked Nair theme 
 -       Changed colors to blue and yellow
--       Rescaled the fonts and images 
+-       Rescaled the fonts and images
+v1.2
+date: 2 Sep 2024
+-       Added support for more colors 
