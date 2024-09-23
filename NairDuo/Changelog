@@ -1,0 +1,36 @@
+Changelog
+------------------------------
+Nair - Conky Theme
+[ Orion Themes Pack ] 
+
+by Closebox73
+
+Social
+X		: https://twitter.com/closebox73
+Discord	: https://discord.com/users/1115644269802311750
+Github	: https://github.com/closebox73
+Pling	: https://pling.com/u/closebox73x
+------------------------------
+
+v1.0
+date : 21 Jun 2022
+-	Initial release
+
+
+v1.3
+date : 04 Jan 2023
+-	Add override_utf8_locale line 
+-	Little extra line in script
+-	Delete unused Weather icon Folder
+-	Fix Weather icon not work
+-	Add Changelog file
+
+
+v2.0
+date : 15 Oct 2023
+-	Change name to Nair ( internal purpose only )
+-	New weather.sh
+-	Add Fahrenheit version
+-	Use Icon font for weather icon
+-	Add Bargraph.lua
+-	Some minor change
